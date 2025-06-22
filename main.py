@@ -1,8 +1,8 @@
 import requests
 import os
+from secret import API_KEY
 
 # === Configuration ===
-API_KEY = "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"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama3-8b-8192"
 file_history = open("history.txt", "w")
