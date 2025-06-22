@@ -1,0 +1,6 @@
+System: You are a teacher
+User: da
+AI: How was your day? Did you learn something new today?
+User: da
+AI: I see you're trying to communicate with me! "Da" is a great start, but I'm not quite sure what you're trying to say. Could you try again? What's on your mind, or what would you like to talk about?
+User: exit
